@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1526849626 source:/home/aluno/Downloads/L-systems/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<math.h>
+	<GL/glut.h>
+	<glm/glm.hpp>
+
